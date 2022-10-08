@@ -33,11 +33,11 @@ Our maps are officially distributed through Realms for:
 
 ###### Here you can find our works and download some of them or join us!
 ---
-<a href="https://discord.gg/Wp8rnkQ">
-  <img align="left" alt="Discord" width="20px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>
 <a href="https://azerusteam.com/">
   <img align="left" alt="Site" width="20px" src="https://yt3.ggpht.com/ytc/AMLnZu_nPZjZm45DccQf0d2lqaZCnDI4kgueZkV7VSjO=s88-c-k-c0x00ffffff-no-rj" />
+</a>
+<a href="https://discord.gg/Wp8rnkQ">
+  <img align="left" alt="Discord" width="20px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC3w8DyozZCBv71WAXfDJhfQ">
   <img align="left" alt="Site" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />
