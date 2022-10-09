@@ -26,6 +26,6 @@ jobs:
           python-version: 3.8 #install the python needed
       - name: execute py script # run the run.py to get the latest data
         run: |
-          python .\auto_readme.py
+          python auto_readme.py
       - name: export index
         uses: stefanzweifel/git-auto-commit-action@v4
