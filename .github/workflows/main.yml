@@ -9,19 +9,23 @@ on:
       - "main"
   schedule:
     - cron: '* 23 * * *'
-jobs:
-  add_maps:
-    name: Add Maps
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/setup-python@v2
-      - uses: jannekem/run-python-script-action@v1
-      - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        repository: azerus-team/.github
-        token: ${{ secrets.GITHUB_TOKEN }}
-        path: ${{ env.REPO_DIR }}
 
-    - name: run
-      run: python ${{ env.REPO_DIR }}/auto_readme.py
-      shell: sh
+env:
+  REPO_DIR: .github
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 #install the python needed
+      - name: execute py script # run the run.py to get the latest data
+        run: |
+          python ..\auto_readme.py
+      - name: export index
+        uses: stefanzweifel/git-auto-commit-action@v4
