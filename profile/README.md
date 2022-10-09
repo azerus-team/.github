@@ -7,8 +7,8 @@
 <h4><p align="center">We are a growing team of map creators in Minecraft.</p></h4>
 
 Our maps are officially distributed through Realms for:
-* Minecraft: Java Edition
-* Minecraft: Bedrock Edition - Minecraft Marketplace
+<li>Minecraft: Java Edition</li>
+<li>Minecraft: Bedrock Edition - Minecraft Marketplace</li>
 
 
 <h4><p align="center">Our games:</p>
