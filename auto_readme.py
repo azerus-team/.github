@@ -21,7 +21,7 @@ if len(j["maps"]) == len(re.findall('class=\"map\"', README)):
 else:
 	a = "https://azerusteam.com/attachments/"
 
-	AUTOMATE = r"<p class=\"automate\" align=\"center\">"
+	AUTOMATE = r'''<p class="automate" align="center">'''
 	LAST_MAP = j["maps"][0]
 	TITLE = LAST_MAP["title"]
 	mapUuid = LAST_MAP["mapUuid"]
