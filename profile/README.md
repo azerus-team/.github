@@ -39,7 +39,3 @@ Our maps are officially distributed through Realms for:
 <a href="https://www.youtube.com/channel/UC3w8DyozZCBv71WAXfDJhfQ">
   <img align="left" alt="Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />
 </a>
->
-<a href="https://www.youtube.com/channel/UC3w8DyozZCBv71WAXfDJhfQ">
-  <img align="left" alt="Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />
-</a>
