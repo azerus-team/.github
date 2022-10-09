@@ -10,14 +10,18 @@ on:
   schedule:
     - cron: '* 23 * * *'
 jobs:
-  build:
+  add_maps:
+    name: Add Maps
     runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-python@v2
       - uses: jannekem/run-python-script-action@v1
       - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          python-version: 3.10 # install the python needed
-      - name: execute py script # run the run.py to get the latest data
-        run: |
-          python auto_readme.py
+      with:
+        repository: azerus-team/.github
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: ${{ env.REPO_DIR }}
+
+    - name: run
+      run: python ${{ env.REPO_DIR }}/auto_readme.py
+      shell: sh
