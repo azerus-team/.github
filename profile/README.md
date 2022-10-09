@@ -12,9 +12,9 @@ Our maps are officially distributed through Realms for:
 
 
 <h4><p align="center">Our games:</p>
-<p align="center">
+<p class="automate" align="center">
 <a class="map" href="https://azerusteam.com/map/feed-the-ravager"><img alt="Feed the Ravager" width="256px" src="https://azerusteam.com/attachments/2d865138-dc1e-4ccc-9e8b-533eda4a316d/c2eba41f-b564-4ce5-a82f-b2f2b658f398/logo-web.png" /></a>
-<a href="https://azerusteam.com/map/fresh-designs"><img alt="Fresh Designs" width="256px" src="https://azerusteam.com/attachments/11981feb-86eb-42f5-8327-57a21e94639c/ada9b75d-ef1e-42be-9890-5bbc2469aa8a/logo-web.png" /></a>
+<a class="map" href="https://azerusteam.com/map/fresh-designs"><img alt="Fresh Designs" width="256px" src="https://azerusteam.com/attachments/11981feb-86eb-42f5-8327-57a21e94639c/ada9b75d-ef1e-42be-9890-5bbc2469aa8a/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/dodgearrow"><img alt="Dodgearrow" width="256px" src="https://cdn.discordapp.com/attachments/532876022698213387/834100390189858817/unknown.png" /></a>
 <a class="map" href="https://azerusteam.com/map/wings-wars"><img alt="Wings Wars" width="256px" src="https://azerusteam.com/attachments/59527dcc-79e1-4aa6-b2bd-64fea75b6896/c943571b-3696-4f38-a970-b8cf8d09d7cc/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/block-combat"><img alt="Block Combat" width="256px" src="https://i.ytimg.com/vi_webp/Yo7YOKJCV9g/maxresdefault.webp" /></a>
