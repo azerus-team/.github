@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://azerusteam.com/images/logo.png">
+  <a href="https://azerusteam.com/"><img src="https://azerusteam.com/images/logo.png">
 </p>
 
 <hr></hr>
