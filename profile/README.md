@@ -10,7 +10,9 @@ Our maps are officially distributed through Realms for:
 <li>Minecraft: Java Edition</li>
 <li>Minecraft: Bedrock Edition - Minecraft Marketplace</li>
 
-
+<!---
+Don't change the paragraph with "automate" class It works automatically using Github Actions, and script auto_readme.py which grabs map info from our API
+-->
 <h4><p align="center">Our games:</p>
 <p class="automate" align="center">
 <a class="map" href="https://azerusteam.com/map/feed-the-ravager"><img alt="Feed the Ravager" width="256px" src="https://azerusteam.com/attachments/2d865138-dc1e-4ccc-9e8b-533eda4a316d/c2eba41f-b564-4ce5-a82f-b2f2b658f398/logo-web.png" /></a>
