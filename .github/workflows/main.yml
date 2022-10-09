@@ -8,7 +8,7 @@ on:
     branches:
       - "main"
   schedule:
-    - cron: '* 23 * * *'
+    - cron: '59 23 * * *'
 
 env:
   REPO_DIR: .github
