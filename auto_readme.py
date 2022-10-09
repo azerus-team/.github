@@ -17,9 +17,9 @@ if len(j["maps"]) == len(re.findall('class=\"map\"', README)):
 	print("Up to date.")
 else:
 	AUTOMATE = r'''<p class="automate" align="center">'''
-	map = r'''<a class="map" href=".*"><img alt=".*" width="256px" src="https://azerusteam.com/attachments/.*/.*/logo-web.png" /></a>\n'''
+	hyperlink = r'''<a class="map" href=".*"><img alt=".*" width="256px" src="https://azerusteam.com/attachments/.*/.*/logo-web.png" /></a>\n'''
 	FIXED_README = README
-	FIXED_README = re.sub(map, "", FIXED_README) # Deleting previous maps from readme
+	FIXED_README = re.sub(hyperlink, "", FIXED_README) # Deleting previous maps from readme
 	
 	# Adding all maps to readme
 	for i in range(len(j["maps"])-1, -1, -1):
