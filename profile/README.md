@@ -2,8 +2,9 @@
   <img src="https://azerusteam.com/images/logo.png">
 </p>
 
----
-<h4><p align="center">We are a growing team of map creators in Minecraft.</h4>
+<hr></hr>
+
+<h4><p align="center">We are a growing team of map creators in Minecraft.</p></h4>
 
 Our maps are officially distributed through Realms for:
 * Minecraft: Java Edition
@@ -28,7 +29,7 @@ Our maps are officially distributed through Realms for:
 </a>
 
 <h6>Here you can find our works and download some of them or join us!</h6>
----
+<hr></hr>
 <a href="https://azerusteam.com/">
   <img align="left" alt="Site" width="20px" src="https://yt3.ggpht.com/ytc/AMLnZu_nPZjZm45DccQf0d2lqaZCnDI4kgueZkV7VSjO=s88-c-k-c0x00ffffff-no-rj" />
 </a>
