@@ -15,6 +15,7 @@ Don't change the paragraph with "automate" class It works automatically using Gi
 -->
 <h4><p align="center">Our games:</p>
 <p class="automate" align="center">
+<a class="map" href="https://azerusteam.com/map/robbed-hag-hide-and-seek-classic"><img alt="Robbed Hag H&S" width="256px" src="https://azerusteam.com/attachments/60cb2998-f00f-4925-ab1d-12edf8bfa1ab/61094635-75b1-42b9-8768-896c4f276d1e/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/feed-the-ravager"><img alt="Feed the Ravager" width="256px" src="https://azerusteam.com/attachments/2d865138-dc1e-4ccc-9e8b-533eda4a316d/c2eba41f-b564-4ce5-a82f-b2f2b658f398/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/fresh-designs"><img alt="Fresh Designs" width="256px" src="https://azerusteam.com/attachments/11981feb-86eb-42f5-8327-57a21e94639c/ada9b75d-ef1e-42be-9890-5bbc2469aa8a/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/dodgearrow"><img alt="Dodgearrow" width="256px" src="https://azerusteam.com/attachments/5bbaa76a-5988-4749-b299-34c2dac9a70d/7f91e6aa-2247-478a-aebe-01ce87b8d53f/logo-web.png" /></a>
