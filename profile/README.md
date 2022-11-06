@@ -15,6 +15,7 @@ Don't change the paragraph with "automate" class It works automatically using Gi
 -->
 <h4><p align="center">Our games:</p>
 <p class="automate" align="center">
+<a class="map" href="https://azerusteam.com/map/move-it-life"><img alt="Move It Life" width="256px" src="https://azerusteam.com/attachments/21a56001-d7ee-4208-8d3f-3aeeee01fc7b/dbc4861f-3a89-42fc-8f9d-d03511ad07e7/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/robbed-hag-hide-and-seek-classic"><img alt="Robbed Hag H&S" width="256px" src="https://azerusteam.com/attachments/60cb2998-f00f-4925-ab1d-12edf8bfa1ab/61094635-75b1-42b9-8768-896c4f276d1e/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/feed-the-ravager"><img alt="Feed the Ravager" width="256px" src="https://azerusteam.com/attachments/2d865138-dc1e-4ccc-9e8b-533eda4a316d/c2eba41f-b564-4ce5-a82f-b2f2b658f398/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/fresh-designs"><img alt="Fresh Designs" width="256px" src="https://azerusteam.com/attachments/11981feb-86eb-42f5-8327-57a21e94639c/ada9b75d-ef1e-42be-9890-5bbc2469aa8a/logo-web.png" /></a>
@@ -24,6 +25,7 @@ Don't change the paragraph with "automate" class It works automatically using Gi
 <a class="map" href="https://azerusteam.com/map/math-fractals"><img alt="Math Fractals" width="256px" src="https://azerusteam.com/attachments/e8f5bb20-6b99-49c5-b416-28bbf95f7716/143101ea-b141-4707-8cc2-71ec34ae97e3/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/maze-wars"><img alt="Maze Wars" width="256px" src="https://azerusteam.com/attachments/9ebac9ee-256d-4f53-9162-e17c3c08097a/70453932-9dc8-4a03-afde-5ede013515b4/logo-web.png" /></a>
 <a class="map" href="https://azerusteam.com/map/puzzle-wars"><img alt="Puzzle Wars" width="256px" src="https://azerusteam.com/attachments/c75e2fa0-d52e-475e-8ab3-121cb99190f0/e4f83ddc-5ddb-442f-8ca6-7cc4f5d29ad9/logo-web.png" /></a>
+<a class="map" href="https://azerusteam.com/map/flower-pot-battle"><img alt="Flower Pot Battle" width="256px" src="https://azerusteam.com/attachments/7adf2d16-c814-44dc-b9e8-e7a265ed0ced/f8814534-810e-4149-859d-c0502f1f7567/logo-web.png" /></a>
 </p></h4>
 
 
